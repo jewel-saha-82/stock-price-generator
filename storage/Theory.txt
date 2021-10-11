@@ -1,0 +1,21 @@
+Random r = new Random();
+double randomValue = rangeMin + (rangeMax - rangeMin) * r.nextDouble();
+
+
+stock-price-generator  ->  API Gateway
+{
+	"name" : "Gujarat Hotel",
+	"code" : "GUJHO",
+	"price" : 150.21
+	"exchange" : "NSE"
+}
+
+
+
+
+
+
+
+
+
+

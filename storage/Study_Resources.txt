@@ -1,0 +1,4 @@
+Resources
+
+1. Kafka Json Serializer/Deserializer -> https://howtodoinjava.com/kafka/spring-boot-jsonserializer-example/
+2. My youtube library for Kafka -> https://www.youtube.com/playlist?list=PLY5Vlb7byDfuJREhb-0YPpaPeQzXTBBsS
